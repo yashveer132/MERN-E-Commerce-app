@@ -6,7 +6,7 @@ An user-friendly shopping cart system, allowing customers to easily add and remo
 
 Separate Dashboard for both admin and user roles, allowing for efficient management of the system. Products can be added, edited, and deleted, and orders can be easily managed in the admin dashboard.
 
-Integrated the Razorpay payment gateway into the app, providing customers with a secure and seamless payment experience when purchasing items from the store.
+Integrated the Razorpay payment gateway into the app, providing customers with a secure and seamless payment experience when purchasing items from the store. Deployed the app on cyclic.
 
 Developed a filtering system that enables users to sort products by price or category.Ensured application security by implementing authentication and authorization features for both admin and user roles.
 
