@@ -1,5 +1,5 @@
 # MERN-E-Commerce-app
-https://sore-blue-scorpion-sari.cyclic.app/
+https://mern-e-commerce-app-ml81.onrender.com
 
 
 An user-friendly shopping cart system, allowing customers to easily add and remove products from their cart and proceed to checkout.
